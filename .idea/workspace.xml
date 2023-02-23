@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="413e3b92-b4c3-4d26-912d-8277dfa1d181" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StringCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/StringCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/StringCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StringCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/StringCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/StringCalculatorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +44,7 @@
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_opened_file_path": "C:/Users/Hieu/Documents/Github/training-test-driven-development/pom.xml",
+    "last_opened_file_path": "C:/Users/hthieu2/Documents/Github/training-test-driven-development/pom.xml",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -51,7 +53,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "terminal",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -64,37 +66,6 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.StringCalculatorTest">
-    <configuration name="FizzBuzzTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tddTraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.FizzBuzzTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FizzBuzzTest.inputAnyNumber_returnString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tddTraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.FizzBuzzTest" />
-      <option name="METHOD_NAME" value="inputAnyNumber_returnString" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StringCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tddTraining" />
       <extension name="coverage">
@@ -110,11 +81,77 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringCalculatorTest.expectedReturnSumOfTwoNumberIfStringContainsTwoNumberAndSeparate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tddTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.StringCalculatorTest" />
+      <option name="METHOD_NAME" value="expectedReturnSumOfTwoNumberIfStringContainsTwoNumberAndSeparate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringCalculatorTest.expectedReturnSumWithNewLineAndCommaAsSeparator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tddTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.StringCalculatorTest" />
+      <option name="METHOD_NAME" value="expectedReturnSumWithNewLineAndCommaAsSeparator" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringCalculatorTest.expectedReturnSumWithNewLineAsSeparator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tddTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.StringCalculatorTest" />
+      <option name="METHOD_NAME" value="expectedReturnSumWithNewLineAsSeparator" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringCalculatorTest.expectedReturnThatNumberIfStringContainsANumberAndSeparateAtStartAndEnd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tddTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.StringCalculatorTest" />
+      <option name="METHOD_NAME" value="expectedReturnThatNumberIfStringContainsANumberAndSeparateAtStartAndEnd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.StringCalculatorTest" />
-        <item itemvalue="JUnit.FizzBuzzTest" />
-        <item itemvalue="JUnit.FizzBuzzTest.inputAnyNumber_returnString" />
+        <item itemvalue="JUnit.StringCalculatorTest.expectedReturnSumWithNewLineAsSeparator" />
+        <item itemvalue="JUnit.StringCalculatorTest.expectedReturnSumWithNewLineAndCommaAsSeparator" />
+        <item itemvalue="JUnit.StringCalculatorTest.expectedReturnSumOfTwoNumberIfStringContainsTwoNumberAndSeparate" />
+        <item itemvalue="JUnit.StringCalculatorTest.expectedReturnThatNumberIfStringContainsANumberAndSeparateAtStartAndEnd" />
       </list>
     </recent_temporary>
   </component>
@@ -131,6 +168,7 @@
       <workItem from="1676118492394" duration="138000" />
       <workItem from="1676118749768" duration="212000" />
       <workItem from="1676119046848" duration="3841000" />
+      <workItem from="1677123586345" duration="6923000" />
     </task>
     <servers />
   </component>
@@ -147,6 +185,17 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/StringCalculator.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
